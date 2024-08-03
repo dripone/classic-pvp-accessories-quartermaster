@@ -16,7 +16,7 @@ DELETE FROM `npc_vendor` WHERE `item` IN (
     28242, -- Medallion of the Horde Paladin
     28243, -- Medallion of the Horde Hunter
     37864, -- Medallion of the Alliance ( EPIC )
-	37865, -- Medallion of the Horde ( EPIC ) 
+    37865, -- Medallion of the Horde ( EPIC ) 
     30348, -- Medallion of the Alliance Warlock
     30349, -- Medallion of the Alliance Priest
     30350, -- Medallion of the Alliance Warrior
